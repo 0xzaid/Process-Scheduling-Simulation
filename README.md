@@ -7,7 +7,7 @@ Algorithms used:
 - Shortest remaining time next
 - Earliest deadline first
 
-Task 1:
+# Task 1:
 
 A program for process scheduling on a First Come First Serve (FCFS) Basis, Where the processes are serviced in order of their arrival time. This program Can
 take an arguement for a processes file or will use the default "process.txt" file to run the program on, and will output a "results-task1.txt" file
@@ -30,7 +30,7 @@ Expected output:
 
 
 
-Task 2:
+# Task 2:
 
 A program for a process scheduling on a Shortest Remaining Time Next basis, where the processes are serviced in order of which process that arrived has the
 shortest remaining time to finish. This program cab take an argument for a processes file or will use the default "process.txt" file to run the program on, and
@@ -54,7 +54,7 @@ Expected output:
 
 
 
-Task 3:
+# Task 3:
 
 A program for a process scheduling on a Earliest deadline first bases, where the processes are serviced in order of which process that has arrived has the earliest deadline first. This program can take an argument for a processes file or will use the default "process.txt" file to run the program on, and
 will output a "results-task3.txt" file with the correct output.
